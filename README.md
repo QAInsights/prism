@@ -46,4 +46,4 @@ Looking for more power? **Prism Pro** is available, dropping the 2-tab limit com
 Visit [QAInsights](https://qainsights.com) for more information on upgrading to Prism Pro.
 
 ## License
-Open Source License details go here.
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for more details.
