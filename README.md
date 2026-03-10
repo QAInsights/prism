@@ -9,7 +9,10 @@ Historically, JMeter only allows you to view and interact with a single Test Pla
 - **Lightning Fast Switching**: Swamp instantly between complex test plans without rebuilding the UI.
 - **Safety First Data Isolation**: Each tab maintains its own underlying JMeter `GuiPackage` state to prevent cross-contamination and ensure your saved data is 100% isolated.
 - **Dynamic Tab Names**: Tabs intelligently update themselves based on the loaded file name or the Root Test Plan node, with auto-truncation and tooltips so the UI always looks clean.
-- **Maximum Tabs**: The Open-Source version of Prism allows up to **2 simultaneous active tabs** to be open.
+- **Maximum Tabs**: The Open-Source version of Prism allows up to **2 simultaneous active tabs** to be open.  
+
+
+![Prism OSS Edition](./prism-oss/images/Prism.png)
 
 ## 🚀 Installation & Requirements
 **Prerequisites:**
