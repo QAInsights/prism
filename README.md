@@ -12,7 +12,9 @@ Historically, JMeter only allows you to view and interact with a single Test Pla
 - **Maximum Tabs**: The Open-Source version of Prism allows up to **2 simultaneous active tabs** to be open.  
 
 
-![Prism OSS Edition](./prism-oss/images/Prism.png)
+<p align="center">
+  <img src="./prism-oss/images/Prism.png" alt="Prism OSS Edition" />
+</p>
 
 ## 🚀 Installation & Requirements
 **Prerequisites:**
