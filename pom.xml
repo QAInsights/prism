@@ -13,7 +13,6 @@
 
     <modules>
         <module>prism-oss</module>
-        <module>prism-pro</module>
     </modules>
 
     <properties>
